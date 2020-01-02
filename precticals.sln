@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29613.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prectical1", "prectical1\prectical1.csproj", "{9DA0E372-84E9-49B6-B2A3-8A71C49D7779}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "prectical1", "prectical1\prectical1.csproj", "{9DA0E372-84E9-49B6-B2A3-8A71C49D7779}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prectical2", "prectical2\prectical2.csproj", "{9758DE31-A095-44D3-B783-D84EE6DF5D5B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{9DA0E372-84E9-49B6-B2A3-8A71C49D7779}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9DA0E372-84E9-49B6-B2A3-8A71C49D7779}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9DA0E372-84E9-49B6-B2A3-8A71C49D7779}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9758DE31-A095-44D3-B783-D84EE6DF5D5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9758DE31-A095-44D3-B783-D84EE6DF5D5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9758DE31-A095-44D3-B783-D84EE6DF5D5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9758DE31-A095-44D3-B783-D84EE6DF5D5B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
