@@ -2,11 +2,13 @@
 
 namespace prectical3
 {
+
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            CarSalesman c = new CarSalesman();
+            c.sell();
         }
     }
 }

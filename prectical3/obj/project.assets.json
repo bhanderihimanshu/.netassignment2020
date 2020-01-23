@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DOTNET\\precticals\\prectical3\\prectical3.csproj",
-      "projectName": "prectical3",
-      "projectPath": "D:\\DOTNET\\precticals\\prectical3\\prectical3.csproj",
+      "projectUniqueName": "D:\\DOTNET\\precticals\\prectical3\\demo.csproj",
+      "projectName": "demo",
+      "projectPath": "D:\\DOTNET\\precticals\\prectical3\\demo.csproj",
       "packagesPath": "C:\\Users\\Himanshu Patel\\.nuget\\packages\\",
       "outputPath": "D:\\DOTNET\\precticals\\prectical3\\obj\\",
       "projectStyle": "PackageReference",
