@@ -1,0 +1,11 @@
+D:\DOTNET\precticals\prectical4\bin\Debug\netcoreapp3.1\prectical4.exe
+D:\DOTNET\precticals\prectical4\bin\Debug\netcoreapp3.1\prectical4.deps.json
+D:\DOTNET\precticals\prectical4\bin\Debug\netcoreapp3.1\prectical4.runtimeconfig.json
+D:\DOTNET\precticals\prectical4\bin\Debug\netcoreapp3.1\prectical4.runtimeconfig.dev.json
+D:\DOTNET\precticals\prectical4\bin\Debug\netcoreapp3.1\prectical4.dll
+D:\DOTNET\precticals\prectical4\bin\Debug\netcoreapp3.1\prectical4.pdb
+D:\DOTNET\precticals\prectical4\obj\Debug\netcoreapp3.1\prectical4.csprojAssemblyReference.cache
+D:\DOTNET\precticals\prectical4\obj\Debug\netcoreapp3.1\prectical4.AssemblyInfoInputs.cache
+D:\DOTNET\precticals\prectical4\obj\Debug\netcoreapp3.1\prectical4.AssemblyInfo.cs
+D:\DOTNET\precticals\prectical4\obj\Debug\netcoreapp3.1\prectical4.dll
+D:\DOTNET\precticals\prectical4\obj\Debug\netcoreapp3.1\prectical4.pdb

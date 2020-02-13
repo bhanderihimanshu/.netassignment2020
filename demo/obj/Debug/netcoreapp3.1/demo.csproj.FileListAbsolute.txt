@@ -1,0 +1,3 @@
+D:\DOTNET\precticals\demo\obj\Debug\netcoreapp3.1\demo.csprojAssemblyReference.cache
+D:\DOTNET\precticals\demo\obj\Debug\netcoreapp3.1\demo.AssemblyInfoInputs.cache
+D:\DOTNET\precticals\demo\obj\Debug\netcoreapp3.1\demo.AssemblyInfo.cs

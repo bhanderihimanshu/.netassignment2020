@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DOTNET\\precticals\\demo\\demo.csproj": {}
+    "D:\\DOTNET\\precticals\\prectical3\\prectical3.csproj": {}
   },
   "projects": {
-    "D:\\DOTNET\\precticals\\demo\\demo.csproj": {
+    "D:\\DOTNET\\precticals\\prectical3\\prectical3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DOTNET\\precticals\\demo\\demo.csproj",
-        "projectName": "demo",
-        "projectPath": "D:\\DOTNET\\precticals\\demo\\demo.csproj",
+        "projectUniqueName": "D:\\DOTNET\\precticals\\prectical3\\prectical3.csproj",
+        "projectName": "prectical3",
+        "projectPath": "D:\\DOTNET\\precticals\\prectical3\\prectical3.csproj",
         "packagesPath": "C:\\Users\\Himanshu Patel\\.nuget\\packages\\",
-        "outputPath": "D:\\DOTNET\\precticals\\demo\\obj\\",
+        "outputPath": "D:\\DOTNET\\precticals\\prectical3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Himanshu Patel\\AppData\\Roaming\\NuGet\\NuGet.Config",

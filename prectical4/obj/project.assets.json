@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DOTNET\\precticals\\demo\\demo.csproj",
-      "projectName": "demo",
-      "projectPath": "D:\\DOTNET\\precticals\\demo\\demo.csproj",
+      "projectUniqueName": "D:\\DOTNET\\precticals\\prectical4\\prectical4.csproj",
+      "projectName": "prectical4",
+      "projectPath": "D:\\DOTNET\\precticals\\prectical4\\prectical4.csproj",
       "packagesPath": "C:\\Users\\Himanshu Patel\\.nuget\\packages\\",
-      "outputPath": "D:\\DOTNET\\precticals\\demo\\obj\\",
+      "outputPath": "D:\\DOTNET\\precticals\\prectical4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Himanshu Patel\\AppData\\Roaming\\NuGet\\NuGet.Config",
