@@ -1,4 +1,4 @@
-﻿namespace Practical8
+﻿namespace prectical8
 {
     partial class Form1
     {

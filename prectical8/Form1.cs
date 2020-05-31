@@ -8,11 +8,10 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Practical8
+namespace prectical8
 {
     public partial class Form1 : Form
     {
-        
         public Form1()
         {
             InitializeComponent();
@@ -21,7 +20,7 @@ namespace Practical8
         private void button1_Click(object sender, EventArgs e)
         {
             float fontSize = lblFont.Font.Size;
-            lblFont.Font = new Font(lblFont.Font.FontFamily,++fontSize);
+            lblFont.Font = new Font(lblFont.Font.FontFamily, ++fontSize);
         }
 
         private void button2_Click(object sender, EventArgs e)

@@ -19,7 +19,20 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "prectical6", "prectical6\pr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "prectical7", "prectical7\prectical7.csproj", "{6B4FB880-24F1-4CCD-958E-3A257A2C3A70}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prectical8", "prectical8\prectical8.csproj", "{6FC175F6-C0BA-4489-B626-D9A3319F6A66}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{53E95BCC-2496-4312-8786-D32AC029A97A}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prectical9", "prectical9\prectical9.csproj", "{1D8F5E58-6525-4D6B-A434-D3063F792EA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prectical10", "prectical10\prectical10.csproj", "{EB5C1FEE-D4F3-49A8-9AC0-CED80FA1130D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prectical11", "prectical11\prectical11.csproj", "{6609CFF0-F589-4B0E-8353-33FCB067BB06}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prectical12", "prectical12\prectical12.csproj", "{31F35803-2D0E-41DF-964F-4833D44B6C32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prectical8", "prectical8\prectical8.csproj", "{4944C47B-976D-4729-A101-54E02857E56F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -59,10 +72,26 @@ Global
 		{6B4FB880-24F1-4CCD-958E-3A257A2C3A70}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6B4FB880-24F1-4CCD-958E-3A257A2C3A70}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6B4FB880-24F1-4CCD-958E-3A257A2C3A70}.Release|Any CPU.Build.0 = Release|Any CPU
-		{6FC175F6-C0BA-4489-B626-D9A3319F6A66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6FC175F6-C0BA-4489-B626-D9A3319F6A66}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6FC175F6-C0BA-4489-B626-D9A3319F6A66}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6FC175F6-C0BA-4489-B626-D9A3319F6A66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D8F5E58-6525-4D6B-A434-D3063F792EA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D8F5E58-6525-4D6B-A434-D3063F792EA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D8F5E58-6525-4D6B-A434-D3063F792EA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D8F5E58-6525-4D6B-A434-D3063F792EA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB5C1FEE-D4F3-49A8-9AC0-CED80FA1130D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB5C1FEE-D4F3-49A8-9AC0-CED80FA1130D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB5C1FEE-D4F3-49A8-9AC0-CED80FA1130D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB5C1FEE-D4F3-49A8-9AC0-CED80FA1130D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6609CFF0-F589-4B0E-8353-33FCB067BB06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6609CFF0-F589-4B0E-8353-33FCB067BB06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6609CFF0-F589-4B0E-8353-33FCB067BB06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6609CFF0-F589-4B0E-8353-33FCB067BB06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31F35803-2D0E-41DF-964F-4833D44B6C32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31F35803-2D0E-41DF-964F-4833D44B6C32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31F35803-2D0E-41DF-964F-4833D44B6C32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31F35803-2D0E-41DF-964F-4833D44B6C32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4944C47B-976D-4729-A101-54E02857E56F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4944C47B-976D-4729-A101-54E02857E56F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4944C47B-976D-4729-A101-54E02857E56F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4944C47B-976D-4729-A101-54E02857E56F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
