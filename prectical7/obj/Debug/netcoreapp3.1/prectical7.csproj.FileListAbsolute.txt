@@ -1,0 +1,10 @@
+D:\DOTNET\precticals\prectical7\bin\Debug\netcoreapp3.1\prectical7.exe
+D:\DOTNET\precticals\prectical7\bin\Debug\netcoreapp3.1\prectical7.deps.json
+D:\DOTNET\precticals\prectical7\bin\Debug\netcoreapp3.1\prectical7.runtimeconfig.json
+D:\DOTNET\precticals\prectical7\bin\Debug\netcoreapp3.1\prectical7.runtimeconfig.dev.json
+D:\DOTNET\precticals\prectical7\bin\Debug\netcoreapp3.1\prectical7.dll
+D:\DOTNET\precticals\prectical7\bin\Debug\netcoreapp3.1\prectical7.pdb
+D:\DOTNET\precticals\prectical7\obj\Debug\netcoreapp3.1\prectical7.AssemblyInfoInputs.cache
+D:\DOTNET\precticals\prectical7\obj\Debug\netcoreapp3.1\prectical7.AssemblyInfo.cs
+D:\DOTNET\precticals\prectical7\obj\Debug\netcoreapp3.1\prectical7.dll
+D:\DOTNET\precticals\prectical7\obj\Debug\netcoreapp3.1\prectical7.pdb

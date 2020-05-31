@@ -1,0 +1,10 @@
+D:\DOTNET\precticals\prectical6\bin\Debug\netcoreapp3.1\prectical6.exe
+D:\DOTNET\precticals\prectical6\bin\Debug\netcoreapp3.1\prectical6.deps.json
+D:\DOTNET\precticals\prectical6\bin\Debug\netcoreapp3.1\prectical6.runtimeconfig.json
+D:\DOTNET\precticals\prectical6\bin\Debug\netcoreapp3.1\prectical6.runtimeconfig.dev.json
+D:\DOTNET\precticals\prectical6\bin\Debug\netcoreapp3.1\prectical6.dll
+D:\DOTNET\precticals\prectical6\bin\Debug\netcoreapp3.1\prectical6.pdb
+D:\DOTNET\precticals\prectical6\obj\Debug\netcoreapp3.1\prectical6.AssemblyInfoInputs.cache
+D:\DOTNET\precticals\prectical6\obj\Debug\netcoreapp3.1\prectical6.AssemblyInfo.cs
+D:\DOTNET\precticals\prectical6\obj\Debug\netcoreapp3.1\prectical6.dll
+D:\DOTNET\precticals\prectical6\obj\Debug\netcoreapp3.1\prectical6.pdb

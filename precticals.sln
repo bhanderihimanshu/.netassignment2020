@@ -13,7 +13,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "demo", "demo\demo.csproj", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "prectical4", "prectical4\prectical4.csproj", "{D254D2CF-46FB-4C4A-9018-E1B504162559}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prectical5", "prectical5\prectical5.csproj", "{4C2A934D-7DC8-4D5D-90AF-190A2466E978}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "prectical5", "prectical5\prectical5.csproj", "{4C2A934D-7DC8-4D5D-90AF-190A2466E978}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "prectical6", "prectical6\prectical6.csproj", "{211AE3E2-5066-43E7-B77A-AD7CB9ADAD00}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "prectical7", "prectical7\prectical7.csproj", "{6B4FB880-24F1-4CCD-958E-3A257A2C3A70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prectical8", "prectical8\prectical8.csproj", "{6FC175F6-C0BA-4489-B626-D9A3319F6A66}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +51,18 @@ Global
 		{4C2A934D-7DC8-4D5D-90AF-190A2466E978}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4C2A934D-7DC8-4D5D-90AF-190A2466E978}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4C2A934D-7DC8-4D5D-90AF-190A2466E978}.Release|Any CPU.Build.0 = Release|Any CPU
+		{211AE3E2-5066-43E7-B77A-AD7CB9ADAD00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{211AE3E2-5066-43E7-B77A-AD7CB9ADAD00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{211AE3E2-5066-43E7-B77A-AD7CB9ADAD00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{211AE3E2-5066-43E7-B77A-AD7CB9ADAD00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B4FB880-24F1-4CCD-958E-3A257A2C3A70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B4FB880-24F1-4CCD-958E-3A257A2C3A70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B4FB880-24F1-4CCD-958E-3A257A2C3A70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B4FB880-24F1-4CCD-958E-3A257A2C3A70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FC175F6-C0BA-4489-B626-D9A3319F6A66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FC175F6-C0BA-4489-B626-D9A3319F6A66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FC175F6-C0BA-4489-B626-D9A3319F6A66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FC175F6-C0BA-4489-B626-D9A3319F6A66}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
